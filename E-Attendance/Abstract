@@ -1,0 +1,8 @@
+This project presents the Attendance system through mobile devices, which is developed using MIT App Inventor. 
+The application is installed in every faculty’s mobile phones and can be used to take attendance and view attendance only in online mode.
+In the attendance system through mobile devices, the Faculty marks and submit the attendance for any class of their choice.
+This application stores the attendance in the public cloud and the Hod/Class-Teacher can view the attendance of their respective course whenever required. 
+Such systems may be manual or automated.
+Biometric-based system, card-based system are some of the examples of automated attendance system. 
+In the manual attendance system, the faculty takes the attendance of the students enrolled in different courses taken by the faculty.
+The information regarding the attendance is then passed on to the academic section of the institute where the information is feed into the institute server database.
