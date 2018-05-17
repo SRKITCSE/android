@@ -1,0 +1,9 @@
+Public Transport Route application provides the facility to know bus routes, bus numbers,
+and nearby bus stops. It also provides the bus details from source to destination along
+with the fare and journey time. It also provides the facility to set alarm when travelling
+from source to destination, when nearby destination then alarm rings; it is like giving
+alertness to commuter. This application is not only useful for commuters who travel by
+bus but also for others who are on foot, on bike or on car. It also provides the facility to
+know whereabouts of the bus. The admin can login and insert the buses information.This
+application is very useful, user-friendly, effective and informative for the commuters who
+travel in the city.
