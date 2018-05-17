@@ -1,0 +1,25 @@
+NEW TRENDZZ is an android based application which stores the details of new accessories, devices, mobiles, tabs & so on that 
+belongs to the user. Each user can upload photos of their accessories or products into “NEW TRENDZZ”. Each post contains the 
+details of product (shop name, itemname, image, shopadress, shopphonenumber, feedback) which are entered by the user when 
+they post it to the application. The post can be viewed by list of friends in our contacts who having the same application
+
+This project uses MYSQL that allow you to maintain a free and easy access to organize database of profiles, product images. 
+The Flexibility of the application is that we can easily gain the information about products that are used by our friends. 
+Using this applicationsave tremendous amount of time in searching similar kind of products across various websites and retail shops.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
