@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.31" >
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="U can hide ur pictures here.\nThis is by the following steps \n 1.tap images icon \n2.click on select image \n3.choose a photo u want to hide.\n 4.now click on hide button \n5.this will take u to another screen \n6.Here u will find a button
+       similarly by following above steps you can hide videos, audio and apps"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+       
+    </ScrollView>
+
+</LinearLayout>

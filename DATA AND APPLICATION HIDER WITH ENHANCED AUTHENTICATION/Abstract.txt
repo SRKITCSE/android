@@ -1,0 +1,9 @@
+In the smart phone era, there is a huge scope of storing data within the device itself. Despite of that, there are a few security 
+related problems. Confidential details, personal files, documents etc are visible to all its users on just opening the phone. 
+To overcome such problems, the new application that we are going to create, helps its user to hide the data in their mobile, 
+without being noticed by others. This is done by creating a user interface which functions exactly like a clock. 
+When the user gives a long press on the icon, it prompts the user to enter the password. After that, he can view the data by 
+entering the password correctly. Authentication used in this application is enhanced very confidentially as this app prompts 
+to enter the password only when user press on the clockicon.
+
+
