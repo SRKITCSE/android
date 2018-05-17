@@ -1,0 +1,11 @@
+With the bifurcation of AP state, all the government departments are being relocated in and around AMARAVATHI with 
+the radius of 70KM. Many of the offices are being temporarily located within 3-4 years expected to occupy permanent location.
+ So public are unaware of office addresses and location. 
+
+This project aims to develop an android application that gives information regarding the AP Govt Dept main office locations. 
+It facilitates locating those offices with google locator. It gives the information about various department descriptions along with
+ the respective URLs. 
+
+As it is an application supported by many of smartphones the public can get instantaneous geo-information regarding all the 
+AP HOD offices. The user can also give the feedback regarding any difficulty in locating any department HOD office and can 
+get the help from the administrator of this application.   
