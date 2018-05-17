@@ -1,0 +1,14 @@
+In day to day life people need to transport from one to another place for regular transportation they may use railway, 
+bus and cabs, among them cabs are not secure because the traveller doesn’t have information about cab and cab driver etc. .., 
+so cities like Delhi, Mumbai are providing the cab reservation through calls. As the increase in usage of smart phones the cab 
+booking can be possible through Apps.
+	Now a day the online cab hiring stick on to calling and intimating the address to cab driver but there is no security for
+ the customers who are travelling in the cab. Traveller in the cab has no idea where he is and he can’t track his path. 
+There is no information to his family members that he safely reached the destination or not. 
+As a solution, MY CAB’s deals with the online cab registration as well as security, to provide security, supervisor monitors the 
+company and user transportation. Details of the company and user are approved by the supervisor. Taxi- Company can register 
+through the company’s register option to provide their services and full details about the cabs.
+ Customer can register through the customer’s register option to access the services like selecting the cab company. Customer 
+will be provided with the driver id which has to be verified with the driver’s id while taking the cab. User has an option to set 
+an alarm to know his status. The time and distance between starting point and destination will be estimated by the app itself. 
+When estimated time completes the alarm raise automatically. Status of the traveller will automatically send to the registered numbers.

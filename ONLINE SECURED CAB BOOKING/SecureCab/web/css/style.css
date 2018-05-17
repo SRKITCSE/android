@@ -1,0 +1,195 @@
+/* CSS Document */
+
+body {
+	padding:0; margin:0; background:#fff;}
+	
+p, div, ul, li, img, h1, h2, h3 ,a {
+		padding:0; margin:0;
+		}
+.spacer {
+		clear:both;
+		line-height:1px;
+		font-size:1px;
+}
+form, label, input {
+		padding-top:5px; margin:0;
+		}
+	ul{list-style:none;}
+
+/*-----------------------*/
+
+div#main img.logo{float:left;}
+div#main ul.topcar li{ float:left; line-height:0 ; font-size:0;}
+div#main ul.topnav{ width:100%; float:left; height:17px; display:block; padding:5px 0 0 9px; font:11px/14px Tahoma, Arial, Helvetica, sans-serif; color:#FFFFFF; background:#697779; margin:9px 0 0 0;}
+div#main ul.topnav li{ float:left;}
+div#main ul.topnav li a{ margin:0 10px 0 10px; text-decoration:none; color:#FFFFFF; background:inherit;}
+div#main ul.topnav li a:hover{ text-decoration:underline;}
+div#main h2.gallary{ background:#000; width:299px; height:17px; padding:5px 0 0 16px; float:right; font:bold 11px/14px Verdana, Arial, Helvetica, sans-serif; color:#CCCCCC;}
+div#main div#header{background:url(images/header.jpg) no-repeat 0 0 ; width:778px; height:295px; display:block; clear:both;}
+
+/*--------body-------------*/
+div#main div#body{ width:100%;min-height:400px; background:#EEEEEE; padding:0 0 13px 0;}
+div#body div.left{padding:31px 0 0 19px; float:left; width:100%;}
+div#body div.left p{ color:#7A8282; font:11px/14px Tahoma, Arial, Helvetica, sans-serif; width:100%; margin:14px 0 0 0;}
+.table_class{
+    
+}
+
+
+div#body form.search{ width:370px ;  height:360px; background:url(images/form_bg.gif) repeat-x  0 0 #fff ; border:1px solid #BDBFBF; float:left; padding:0 0 9px 0; margin-left:250px; clear:right;}
+
+div#body div.left p a:hover{text-decoration:none;}
+
+div#body form.search img.head{ margin:10px 0 10px 16px; clear:both;}
+
+div#body form.search label{
+color:#535858; 
+font:bold 11px/14px Tahoma, Arial, Helvetica, sans-serif; 
+margin:15px 18px 0 31px; width:92px; float:left; }
+div#body form.search select.one{ width:143px; height:20px; margin:15px 0 0 0; border:#80A2C2 1px solid; float:left; clear:right;}
+div#body form.search select.two{ width:172px; height:20px; margin:15px 0 0 0; border:#80A2C2 1px solid; float:left; clear:right;}
+div#body form.search select.three{ width:51px; height:20px; margin:15px 0 0 0; border:#80A2C2 1px solid; float:left;}
+div#body form.search select.four{ width:39px; height:20px; margin:15px 0 0 0; border:#80A2C2 1px solid; float:left;}
+div#body form.search select.five{ width:79px; height:20px; margin:15px 0 0 0; border:#80A2C2 1px solid; float:left; }
+div#body form.search img.date{ margin:15px 0 0 0; float:left;clear:right;}
+div#body form.search input.submit{ width:74px; height:16px; border:1px solid #697779; color:#535858; font:bold 11px/12px Tahoma, Arial, Helvetica, sans-serif; text-align:center; float:left; padding:0 0 4px 0; margin:12px 0 0 139px; background:#fff; cursor:pointer;}
+div#body h3.tech{ width:741px; border-bottom:1px solid #ABB5B6; margin:0 0 0 19px; clear:both;}
+div#body h3.tech img{ margin:0 0 15px 0;}
+div#body div.ads{ width:741px; height:56px; background:#fff; margin:2px 0 0 19px; padding:13px 0 0 0 ; text-align:center;}
+div#body div.ads img{ float:left;}
+div#body p.brd{ margin:3px 0 0 19px; border-bottom:1px solid #ABB5B6; line-height:0; font-size:0; width:741px;}
+/*-----------------------------*/
+div#body p.footer{ font:11px/14px Tahoma, Arial, Helvetica, sans-serif; text-align:center; margin:21px 0 10px 0; color:#060602;}
+div#body p.footer a{ color:#060602; text-decoration:none; margin:0 10px 0 10px;}
+div#body p.footer a:hover{ text-decoration:underline;}
+/*-----------------*/
+div#main div.foot{ height:51px; width:100%; background:#697779; text-align:center; color:#FFFFFF; font:11px/14px Tahoma, Arial, Helvetica, sans-serif; }
+div#main div.foot a{ margin:5px 0 0 0; color:#FFFFFF; text-decoration:underline; background:inherit;}
+div#main div.foot a:hover{ text-decoration:none;}
+
+.menus{ float:right;
+}
+#signin_form{
+    display: none;
+width: 316px;
+height: 100px;
+margin-top: 40px;
+padding: 10px;
+margin-left: 220px;
+border: 1px solid rgb(37, 18, 18);
+float: left;
+   
+}
+#booking_form{
+    display: none;
+    }
+#signup_form{
+    display: none;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding: 12px;
+    float: left;
+    width: 376px;
+    border: 1px solid red;  
+}
+#ac{
+    text-decoration: underline;   
+}
+#sub-div{
+width: 72%;
+min-height:80%; 
+float: left;
+margin-left: 170px;
+width: 700px;
+padding-left: 10%;
+
+}
+
+.th2{
+ 
+background-color: #fff;
+padding-left: 20px;
+padding-right: 33px;
+color: black;
+text-align: left;
+}
+
+#car-details-1{
+margin-top: 10px;
+/*border: 1px solid;*/
+width: 40%;
+float: left;
+
+margin-left: 50px;
+}
+#googleMap{
+    width: 500px;
+height: 380px;
+float: left;
+margin-left: 30px;
+border: 1px solid;
+}
+#content{
+    width: 100%;
+    min-height:70%; 
+}
+
+#main{
+    width:100%;
+    height: 100%
+}
+p{    
+color: #535858;text-align:justify;
+}
+
+.footer{
+    text-align: center;
+}
+
+#signout_button{
+    float: left;
+margin-left: 80%;
+margin-top: -14px;
+}
+
+
+#car-details-table{
+    border: 1px solid;
+}
+
+.tabletd{
+    width: 200px;
+    text-align: center;
+   
+}
+.tabletr{
+    border: 1px solid black;
+    height: 30px;
+
+}
+
+th{
+    background-color: green;
+    color: white;
+}
+#admin_signout_button{
+    margin-top: -14px;
+    margin-left: 90%;
+
+    
+}
+
+#sigin_div{
+  border: 2px solid rgb(145, 107, 107);
+width: 271px;
+padding: 18px;
+margin-left: 38%;
+}
+
+#registration{
+    border: 2px solid rgb(202, 143, 143);
+width: 335px;
+margin-left: 37%;
+padding: 15px;
+    
+}
