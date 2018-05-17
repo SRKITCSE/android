@@ -1,0 +1,10 @@
+The main idea for developing this project is to maintain the events happening in the city. 
+
+This will provide information about events that are going to be conducted within in Vijayawada city. 
+
+It provides a platform for the event organizers to post their events dynamically in this app. 
+
+Users can view the list of events that are going to be happened and they can get notified whenever they announce new events. 
+
+It provides a platform both for the event organizers to announce their events and also for the users to view their favourite events.
+
