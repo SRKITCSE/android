@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/llContacts"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#db4437"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/app_name"
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PhoneNumber" />
+
+            <EditText
+                android:id="@+id/etPhoneNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Item Name" />
+
+            <EditText
+                android:id="@+id/etItemName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shop Name" />
+
+            <EditText
+                android:id="@+id/etShopName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Place" />
+
+            <EditText
+                android:id="@+id/etPlace"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Address" />
+
+            <EditText
+                android:id="@+id/etAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FeedBack" />
+
+            <EditText
+                android:id="@+id/etFeedBack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ShopPhone Number" />
+
+            <EditText
+                android:id="@+id/etShopPhoneNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TimeStamp" />
+
+            <EditText
+                android:id="@+id/etTimeStamp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10" >
+            </EditText>
+
+            <ImageView
+                android:id="@+id/ivPImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher"
+                android:visibility="gone" >
+            </ImageView>
+
+            <Button
+                android:id="@+id/btnGotoDashboard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Goto Dashboard" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
