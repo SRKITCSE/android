@@ -1,0 +1,10 @@
+
+
+PERSONAL FINANCE MANAGEMENT APPLICATION is the perfect solution for managing our finances. we can organize our
+ cash flow, finance, bank accounts in one place. This can help to track our progress, discover our savings, and thereby helps in
+ saving the money.                                  
+                                              
+In present day life most of us forget our expenses due to busy schedules and work tensions. Due to this some people will literally
+ note down all their transactions and expenses manually. So in order to overcome this application is used .This application helps 
+in managing our daily expenses and transactions and helps in saving money.
+
